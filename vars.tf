@@ -1,6 +1,5 @@
 variable "vpc_cidr_block" {}
 variable "tags" {}
-variable "public_subnets" {}
 variable "env" {}
 variable "public_subnets" {}
 variable "web_subnets" {}
