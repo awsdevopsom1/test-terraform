@@ -11,7 +11,7 @@ app_subnets = ["10.10.4.0/24", "10.10.5.0/24"]
 db_subnets = ["10.10.6.0/24", "10.10.7.0/24"]
 
 
-azs = ["us-east-1", "us-east-1b"]
+azs = ["us-east-1a", "us-east-1b"]
 
 account_id = "703671908095"
 default_vpc_id = "vpc-0ef29faf0fc696ea2" 
